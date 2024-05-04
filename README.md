@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bodhikshakti
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning whatever helps me to perform my Cloud Engineer role effectly.
-- 💞️ I’m looking to collaborate on nothing at the movement
+- 💞️ I’m looking to collaborate on something at the movement
 - 📫 How to reach me = https://linkedin.com/in/bodhik
 
 <!---
